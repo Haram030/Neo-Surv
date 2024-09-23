@@ -5,8 +5,8 @@
 게임 장르	캐쥬얼 슈팅 로그라이크
 플랫폼	PC
 
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
-2. 작품 설명
+
+<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />2. 작품 설명
 § 기획 의도
 점점 어려워지는 적들의 공격을 피하며 살아남는다.
 자신만의 빌드를 개척하여 게임을 연구하는 재미를 준다.
